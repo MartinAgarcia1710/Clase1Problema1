@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1691809600 source:d:\ejercicios c++\laboratorio 2\practicas clase 1\problema 1\semana1problema1\main.cpp
+	<iostream>
+	<string>
+	"alumnos.h"
+	"funciones.h"
+
+1691797040 d:\ejercicios c++\laboratorio 2\practicas clase 1\problema 1\semana1problema1\alumnos.h
+	<iostream>
+	<string>
+	"alumnos.h"
+
+1691797040 source:d:\ejercicios c++\laboratorio 2\practicas clase 1\problema 1\semana1problema1\alumnos.cpp
+	<iostream>
+	<string>
+	"alumnos.h"
+
+1691809722 d:\ejercicios c++\laboratorio 2\practicas clase 1\problema 1\semana1problema1\funciones.h
+	<iostream>
+	<string>
+	"alumnos.h"
+	"funciones.h"
+
+1691809722 source:d:\ejercicios c++\laboratorio 2\practicas clase 1\problema 1\semana1problema1\funciones.cpp
+	<iostream>
+	<string>
+	"alumnos.h"
+	"funciones.h"
+
